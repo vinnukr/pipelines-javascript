@@ -2,7 +2,7 @@
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
 For more information on building JavaScript or NodeJS applications, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
-[![Build Status](https://dev.azure.com/vinay123kr/Azure%20Pipeline/_apis/build/status/vinnukr.pipelines-javascript?branchName=master&jobName=Job)](https://dev.azure.com/vinay123kr/Azure%20Pipeline/_build/latest?definitionId=4&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
